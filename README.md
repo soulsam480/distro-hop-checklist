@@ -25,6 +25,7 @@ Because it's difficult to remember these many things, so write it down and go on
   - [ ] install yarn v1 and pnpm
   - [ ] compare and update .zshrc with this https://github.com/soulsam480/dotfiles/blob/master/.zshrc
   - [ ] setup and add ssh keys for github https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+  - [ ] install docker and docker compose
 - [ ] install apps (prefer flatpak)
   - [ ] edge
     - [ ] login and start sync
@@ -52,3 +53,7 @@ Because it's difficult to remember these many things, so write it down and go on
 - [ ] UI
   - [ ] install nordic darker theme
   - [ ] install gnome tweaks
+
+### Some help when refreshing popos
+- https://www.reddit.com/r/pop_os/comments/i7r1s3/missing_user/g16ktos/
+- https://unix.stackexchange.com/questions/230166/mint-cant-login-your-home-directory-error
